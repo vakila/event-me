@@ -2,7 +2,7 @@
     {
         "id": "1",
         "title": "Community Thanksgiving Potluck",
-        "date": "2025-11-29",
+        "date": "2030-11-29",
         "image_url": "https://images.unsplash.com/photo-1574672280600-4accfa5b6f98?w=500",
         "description": "Join our annual community feast! Bring your favorite dish to share and celebrate gratitude with neighbors. All are welcome to this warm gathering of food and friendship.",
         "host_id": "1"
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "title": "Solstice Celebration",
-        "date": "2025-12-21",
+        "date": "2030-12-21",
         "image_url": "https://images.unsplash.com/photo-1482517967863-00e15c9b44be?w=500",
         "description": "Welcome the winter solstice with music, meditation, and seasonal ceremonies. Experience the magic of the longest night of the year in community.",
         "host_id": "2"
