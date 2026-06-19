@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=20 <25"
+  },
   "scripts": {
     "start": "NODE_ENV=production node src/server.js",
     "dev": "node --watch src/server.js"
