@@ -11,9 +11,7 @@ It is part of Anjana's course [TypeScript First Steps](https://anjana.dev/typesc
 
 ## Installation
 
-Make sure you have an up-to-date version of [Node](https://nodejs.org/en/download) installed, including [npm]
-
-
+> **Node version:** to ensure compatibility with the project's dependencies, use **Node 20–24** (LTS). You can install it from [nodejs.org](https://nodejs.org/en/download).
 
 ```
 cd backend
